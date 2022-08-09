@@ -1,0 +1,1 @@
+This project tests the developer's skills regarding recursion, an approach widely used to solve complex problems that could not be easily solved with an iterative approach. Furthermore, recursion helps to create elegant an mantainable code.
